@@ -1,0 +1,52 @@
+body{
+
+	background-image: url(../galery/background.png);
+
+}
+
+.d {
+	margin-top: 70px;
+	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+}
+
+.navigation{
+	margin-top: 40px;
+	display: flex;
+ 	align-items: center;
+ 	justify-content: center;
+
+}
+
+.navig{
+	margin-right: 190px;
+}
+
+.block__line{
+	border-top: 2px solid gray;
+}
+
+.where_we{
+	margin-top: 20px;
+	margin-left: 29%;
+	position: absolute;
+}
+
+.block{
+	margin: 25%;
+	margin-top: 200px;
+	height: 400px;
+	width: 1000px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px #000;
+
+}
+
+.block-left{
+	width:50%;height:800px;overflow:auto;float:left;
+}
+
+.block-right{
+	width:50%;height:800px;overflow:auto;
+}
